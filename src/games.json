@@ -1,0 +1,86 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "url": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "url": "https://kdata1.com/2020/05/tunnel-rush/",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "url": "https://game316022.konggames.com/gamefile/retro-bowl/",
+    "thumbnail": "https://picsum.photos/seed/football/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "basket-stars",
+    "title": "Basketball Stars",
+    "url": "https://kdata1.com/2020/05/basketball-stars/",
+    "thumbnail": "https://picsum.photos/seed/basketball/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "drive-mad",
+    "title": "Drive Mad",
+    "url": "https://kdata1.com/2020/05/drive-mad/",
+    "thumbnail": "https://picsum.photos/seed/car/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "url": "https://kdata1.com/2020/05/moto-x3m/",
+    "thumbnail": "https://picsum.photos/seed/moto/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "category": "Idle"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "url": "https://kdata1.com/2020/05/crossy-road/",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "url": "https://hole-io.com/",
+    "thumbnail": "https://picsum.photos/seed/hole/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "url": "https://kdata1.com/2020/05/geometry-dash/",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/300",
+    "category": "Action"
+  }
+]
